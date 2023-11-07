@@ -23,7 +23,7 @@
 
 # 📖 Leader-Board Project <a name="about-project"></a>
 
-**LEADER-BOARD** The leaderboard website displays scores submitted by different players. It also allows users to submit thir own score. All data is preserved in Leaderboard API service.
+**JOHNTOPMO** The leaderboard website displays scores submitted by different players. It also allows users to submit thir own score. All data is preserved in Leaderboard API service.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -46,7 +46,7 @@
 
 Access the the online version of my application with this link
 
-- [Live Demo Link](https://helpful-gnome-6cc1de.netlify.app/)
+- [Live Demo Link](https://johntopmost-printpress.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
