@@ -220,7 +220,7 @@ nav {
 .nav__menu__btn {
   display: none;
   font-size: 2.5rem;
-  margin-left: 90px;
+  margin-left: 300px;
 }
 
 .title-word {
@@ -284,9 +284,9 @@ nav {
 
 #content h2 {
   color: #fff;
-  font-size: 30px;
+  font-size: 41px;
   position: absolute;
-  transform: translate(-33%, -33%);
+  transform: translate(-61%, -54%);
 }
 
 #content h2:nth-child(1) {
