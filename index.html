@@ -264,9 +264,15 @@
         <h2 class="section__header">
           Subscribe To Get The Latest News & Updates
         </h2>
-        <form action="/">
+        <!-- <form action="https://formspree.io/f/xvojyyej">
           <input type="text" placeholder="Name" />
-          <input type="text" placeholder="Email" />
+          <input type="text" placeholder="Email" /> -->
+          <form class="form" id="my-form" action="https://formspree.io/f/xzbokwoy" method="post">
+            <input type="text" id="fname" name="name" placeholder="Full Name" maxlength="30" required>
+            <input id="email" name="email" type="email" placeholder="Email Address" required>
+            <textarea class="textarea" name="message" maxlength="500" placeholder="text" required>Enter text here
+            </textarea>
+            <small id="error"></small>
           <button class="btn btn__primary">Subscribe</button>
         </form>
         <p class="para">

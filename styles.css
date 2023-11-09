@@ -205,6 +205,20 @@ nav {
   gap: 2rem;
 }
 
+.textarea {
+  width: 327px;
+  height: 114px;
+  background-color: #fbf8f7;
+  font-size: 15px;
+  line-height: 24px;
+  color: #3c3a39;
+  padding-top: 12px;
+  font-family: 'Inter', sans-serif;
+  padding-left: 12px;
+  margin-top: 20px;
+}
+
+
 .link a {
   padding: 5px;
   font-size: 1rem;
