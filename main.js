@@ -80,3 +80,19 @@ function showSlides() {
   setTimeout(showSlides, 2000); // Change image every 2 seconds
 }
 showSlides();
+
+const form = document.querySelector('#my-form');
+const email = document.querySelector('#email');
+const errorMsg = document.querySelector('#error');
+function handleSubmit(e) {
+  e.preventDefault();
+  const regex = /[A-Z]/g;
+  const userEmail = email.value;
+  if (userEmail.match(regex)) {
+    errorMsg.innerHTML = 'Email should be in lower case';
+  } else {
+    errorMsg.remove();
+    form.submit();
+  }
+}
+form.addEventListener('submit', handleSubmit);
