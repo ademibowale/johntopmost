@@ -1,7 +1,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/72006473-43c5-421c-8559-3af11a934d2e/deploy-status)](https://app.netlify.com/sites/printinpress-landingpage/deploys)
 ][[
 
-#  RICHARD Portfolio Page 
+ 
 
 # 📗 Table of Contents
 - [📖 About the Project](#about-project)
@@ -26,9 +26,9 @@
 
 
 <!-- PROJECT DESCRIPTION -->
-# 📖 Portfolio Webpage <a name="about-project"></a>
+# 📖Printing company landing page <a name="about-project"></a>
 
-**Portfolio Webpage** is a professional portfolio webpage that highlights my professionals achievements, progresssion, skills and achievements. This is critical to help me grow their career and have access to opportuntiies by easily sharing this webpage with technical recruiters, organizations, friends and business partners. 
+
 
 ## 🛠 Built With <a name="HTML and CSS "></a>
  
@@ -79,7 +79,7 @@
 
 ### Set ups <a name ="setup"> </a>
 To get a local copy up and running, follow these steps.
-- Go to the Portfolio Project Page [github repo](git@github.com:rychrr/portfolio_page.git)
+- Go to the Portfolio Project Page [github repo]()
 - Clone the repository to your local machine using:
    
    ```
@@ -120,10 +120,7 @@ You can deploy this project by:
 <!-- AUTHORS -->
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Ejike Richard**
-- GitHub: [@rychrr](https://github.com/rychrr)
-- Twitter: [@rychrrd](https://twitter.com/rychardase)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/ejikeozonkwo)
+👤 ****
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
